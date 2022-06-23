@@ -1,2 +1,2 @@
 # Castle-Rush
-Castle Rush is 3d Card game made with C# and Unity
+Castle Rush is a 3d Card game made with C# and Unity
